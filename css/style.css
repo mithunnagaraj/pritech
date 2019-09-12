@@ -484,6 +484,10 @@ ul.nav>li>a:hover {
     margin-top: 0;
 }
 
+.service-description {
+    font-family: sans-serif;
+}
+
 
 /* ================ Step-1,step-2,step-3 Sections ================ */
 
